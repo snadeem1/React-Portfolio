@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Header from "./components/Header";
 import About_Me from "./components/About_Me";
+import Projects from "./components/Projects";
 
 
 
@@ -14,6 +15,7 @@ class App extends Component {
       
           <Header />
           <About_Me />
+          <Projects />
         </header>
       </div>
     );

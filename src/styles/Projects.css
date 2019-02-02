@@ -1,0 +1,16 @@
+img {
+border-radius: 50%;
+width: 200px;
+height: 200px;
+
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 30px;
+  }
+  
+.caption{
+    align-items: center;
+}

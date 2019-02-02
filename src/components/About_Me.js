@@ -13,7 +13,9 @@ const About_Me = () =>  (
 
                    <div className="row">
                     <div className="col-md-2">
-                    <img src={Mypic}/>
+                    
+                    <img src={Mypic} className = "mypic"/>
+                    
                     
                     <div className="col-md-10">
                         <p>My name is Sitwat Nadeem. I am from Fredericksburg, Virginia area.
