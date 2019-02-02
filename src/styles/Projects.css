@@ -6,11 +6,17 @@ height: 200px;
 }
 
 .column {
+    align-content: center;
     float: left;
-    width: 25%;
-    padding: 30px;
+    width: 20%;
+    padding: 22px;
   }
   
 .caption{
     align-items: center;
+}
+
+
+.page-header{
+    text-align: center;
 }
